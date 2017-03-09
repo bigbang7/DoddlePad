@@ -1,0 +1,14 @@
+.pixel {
+	float: left;
+  height: 1.1em;
+  width: 1%;
+}
+
+#grid{
+  width: 100%;
+}
+
+body{
+  text-align: center;
+
+}
